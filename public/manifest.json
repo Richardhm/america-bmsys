@@ -1,0 +1,7 @@
+{
+  "name": "Data Tables Debugging Extension",
+  "version": "1.0",
+  "permissions": [
+    "tabs", "http://*/*", "https://*/*"
+  ]
+}
